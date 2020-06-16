@@ -1,4 +1,4 @@
-from pythonds.basic.stack import Stack
+from pythonds.linear.stack import Stack
 from pythonds.stacktest.infixtopostfix import infixToPostfix
 
 
