@@ -9,3 +9,9 @@ Data Structures and Algorithm Analysis in Python
     -conversion of number systems
     -conversion among prefix, infix and postfix
     -postfix application
+### queue
+    -hotpotato
+    -simulatedprinting
+### deque
+    -palchecker
+### unorderedlist
