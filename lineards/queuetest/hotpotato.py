@@ -1,4 +1,4 @@
-from pythonds.linear.queue import Queue
+from lineards.linear.queue import Queue
 
 
 def hotPotato(namelist, num):

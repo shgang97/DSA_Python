@@ -1,4 +1,4 @@
-from pythonds.linear.stack import Stack
+from lineards.linear.stack import Stack
 
 
 def matches(open, close):

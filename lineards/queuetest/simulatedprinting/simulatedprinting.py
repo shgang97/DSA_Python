@@ -1,6 +1,6 @@
-from pythonds.linear.queue import Queue
-from pythonds.queuetest.simulatedprinting.printer import Printer
-from pythonds.queuetest.simulatedprinting.task import Task, newPrintTask
+from lineards.linear.queue import Queue
+from lineards.queuetest.simulatedprinting.printer import Printer
+from lineards.queuetest.simulatedprinting.task import Task, newPrintTask
 
 
 def simulation(numSeconds, pagesPerMinute):

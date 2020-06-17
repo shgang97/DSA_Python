@@ -1,5 +1,5 @@
 # "回文词"判定
-from pythonds.linear.deque import Deque
+from lineards.linear.deque import Deque
 
 
 def palchecker(aString):

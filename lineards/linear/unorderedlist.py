@@ -1,4 +1,4 @@
-from pythonds.linear.node import Node
+from lineards.linear.node import Node
 
 
 class UnorderedList:
@@ -68,16 +68,19 @@ if __name__ == '__main__':
     print(ulist.search(14))
     print(ulist.search(20))
     # 查看所有元素
-    # print('移除元素前。。。')
-    # for i in range(ulist.size()):
-    #     print(ulist.head.getData())
-    #     if ulist.head != None:
-    #         ulist.head = ulist.head.getNext()
+    print('移除元素前。。。')
+    current = ulist.head
+    for i in range(ulist.size()):
+        print(current.getData(), end='\t')
+        if current != None:
+            current = current.getNext()
     # 移除一个元素
     ulist.remove(17)
     # 查看移除元素后剩余元素所有元素
+    print()
     print('移除一个元素后。。。')
+    current = ulist.head
     for i in range(ulist.size()):
-        print(ulist.head.getData(),end='\t')
-        if ulist.head != None:
-            ulist.head = ulist.head.getNext()
+        print(current.getData(), end='\t')
+        if current != None:
+            current = current.getNext()

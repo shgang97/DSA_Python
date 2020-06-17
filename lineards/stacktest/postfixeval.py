@@ -1,5 +1,5 @@
-from pythonds.linear.stack import Stack
-from pythonds.stacktest.infixtopostfix import infixToPostfix
+from lineards.linear.stack import Stack
+from lineards.stacktest.infixtopostfix import infixToPostfix
 
 
 def doMath(op, op1, op2):
