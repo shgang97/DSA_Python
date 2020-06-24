@@ -1,3 +1,4 @@
+# 递归实现二分查找
 def binarySearch(alist, item):
     if len(alist) == 0:
         return False
