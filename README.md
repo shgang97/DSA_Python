@@ -16,3 +16,15 @@ Data Structures and Algorithm Analysis in Python
     -palchecker
 ### unorderedlist
 ### orderedlist
+
+## searchandsort
+### search
+    sequential seach
+    binary seac=rch
+### sort 
+    bubble 
+    insertion
+    merge
+    quick
+    selection
+    shell
