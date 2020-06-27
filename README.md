@@ -21,6 +21,7 @@ Data Structures and Algorithm Analysis in Python
 ### search
     sequential seach
     binary seac=rch
+    hashtable
 ### sort 
     bubble 
     insertion
