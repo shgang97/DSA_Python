@@ -29,3 +29,11 @@ Data Structures and Algorithm Analysis in Python
     quick
     selection
     shell
+## tree--binarytree
+### nestedlistbinarytree
+### nodebinarytree
+    -evaluate
+    -postordereval
+    -printexp
+### buildparetree
+### ergodic
