@@ -29,7 +29,7 @@ Data Structures and Algorithm Analysis in Python
     quick
     selection
     shell
-## tree--binarytree
+## tree
 ### nestedlistbinarytree
 ### nodebinarytree
     -evaluate
@@ -37,3 +37,4 @@ Data Structures and Algorithm Analysis in Python
     -printexp
 ### buildparetree
 ### ergodic
+### binarysearchtree
