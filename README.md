@@ -19,16 +19,16 @@ Data Structures and Algorithm Analysis in Python
 
 ## searchandsort
 ### search
-    sequential seach
-    binary seac=rch
-    hashtable
+    -sequential seach
+    -binary seac=rch
+    -hashtable
 ### sort 
-    bubble 
-    insertion
-    merge
-    quick
-    selection
-    shell
+    -bubble 
+    -insertion
+    -merge
+    -quick
+    -selection
+    -shell
 ## tree
 ### nestedlistbinarytree
 ### nodebinarytree
@@ -38,3 +38,8 @@ Data Structures and Algorithm Analysis in Python
 ### buildparetree
 ### ergodic
 ### binarysearchtree
+## graph
+    -wordladder
+    -knighttour
+### bfs
+###dfs
